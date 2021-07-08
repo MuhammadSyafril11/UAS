@@ -57,12 +57,12 @@ iuran_organisasi = 3500
 
 #Net
 GajiNetto = int(gajibruto) - int(iuran_organisasi) - int(iuran_pensiun)
- 
 
 
-    
 
-    
+
+
+
 
 
 print("========================================================")
